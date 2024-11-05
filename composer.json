@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": "^8.0",
-    "deadalusphp/response": "^1.0"
+    "deadalusphp/response": "dev-main"
   },
   "autoload": {
     "psr-4": {
